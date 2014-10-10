@@ -23,7 +23,21 @@ A `pasta _docs` é para ser colocada os arquivos que usará no projeto ex: layou
 - 
 
 ### Instalação
-npm install gulp gulp-jshint gulp-uglify gulp-concat gulp-rename --save-dev
+
+* npm install -g gulp // Global
+
+* npm install gulp --save-dev
+* npm install gulp-util --save-dev
+* npm install gulp-uglify --save-dev
+* npm install gulp-watch --save-dev
+* npm install gulp-compass --save-dev
+* npm install gulp-jshint --save-dev
+* npm install gulp-plumber --save-dev
+* npm install gulp-imports --save-dev
+* npm install gulp-imagemin --save-dev
+* npm install beeps -g
+* npm install beep
+* npm install --save-dev gulp-livereload
 
 
 ## Compass
