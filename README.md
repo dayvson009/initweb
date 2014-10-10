@@ -23,22 +23,20 @@ Módulos excessiais para criação do projeto dos módulos.
 ### Instalação
 
 ```
-* npm install -g gulp
-
-* npm install gulp --save-dev
-* npm install gulp-util --save-dev
-* npm install gulp-uglify --save-dev
-* npm install gulp-watch --save-dev
-* npm install gulp-compass --save-dev
-* npm install gulp-jshint --save-dev
-* npm install gulp-plumber --save-dev
-* npm install gulp-imports --save-dev
-* npm install gulp-imagemin --save-dev
-* npm install beeps -g
-* npm install beep
-* npm install --save-dev gulp-livereload
+npm install -g gulp
+npm install gulp --save-dev
+npm install gulp-util --save-dev
+npm install gulp-uglify --save-dev
+npm install gulp-watch --save-dev
+npm install gulp-compass --save-dev
+npm install gulp-jshint --save-dev
+npm install gulp-plumber --save-dev
+npm install gulp-imports --save-dev
+npm install gulp-imagemin --save-dev
+npm install beeps -g
+npm install beep
+npm install --save-dev gulp-livereload
 ```
-
 
 ## Compass
 Usamos pois gostamos bastante da diagramação mas
