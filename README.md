@@ -22,7 +22,7 @@ Módulos excessiais para criação do projeto dos módulos.
 
 ### Instalação
 
-
+```
 * npm install -g gulp
 * npm install gulp --save-dev
 * npm install gulp-util --save-dev
@@ -36,6 +36,7 @@ Módulos excessiais para criação do projeto dos módulos.
 * npm install beeps -g
 * npm install beep
 * npm install --save-dev gulp-livereload
+```
 
 
 ## Compass
