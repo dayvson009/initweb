@@ -16,7 +16,7 @@ Para metologia de organização adotamos :
 
 A `pasta _docs` é para ser colocada os arquivos que usará no projeto ex: layout.jpg, briefing.jpg,
 
-## GULP
+## GULP Era uma vez
 	
 Módulos excessiais para criação do projeto dos módulos.
 
