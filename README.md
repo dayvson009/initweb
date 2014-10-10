@@ -22,8 +22,8 @@ Módulos excessiais para criação do projeto dos módulos.
 
 ### Instalação
 
-* npm install -g gulp // Global
 
+* npm install -g gulp
 * npm install gulp --save-dev
 * npm install gulp-util --save-dev
 * npm install gulp-uglify --save-dev
