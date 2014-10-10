@@ -1,4 +1,4 @@
-#Initialize WEB
+# Initialize WEB
 
 Todos os arquivos ou pastas que iniciem com `_` não é usado para publicação do projeto.
 
@@ -16,9 +16,10 @@ Para metologia de organização adotamos :
 
 A `pasta _docs` é para ser colocada os arquivos que usará no projeto ex: layout.jpg, briefing.jpg,
 
-##GULP
+## GULP
 	
-Módulos excessiais para criação do projeto dos módulos.
+ Módulos excessiais para criação do projeto dos módulos.
+
 - 
 ###Instalação
 npm install gulp gulp-jshint gulp-uglify gulp-concat gulp-rename --save-dev
