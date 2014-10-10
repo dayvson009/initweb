@@ -18,7 +18,7 @@ A `pasta _docs` é para ser colocada os arquivos que usará no projeto ex: layou
 
 ## GULP
 	
- Módulos excessiais para criação do projeto dos módulos.
+Módulos excessiais para criação do projeto dos módulos.
 
 - 
 
