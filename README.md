@@ -20,8 +20,6 @@ A `pasta _docs` é para ser colocada os arquivos que usará no projeto ex: layou
 	
 Módulos excessiais para criação do projeto dos módulos.
 
-- 
-
 ### Instalação
 
 * npm install -g gulp // Global
