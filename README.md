@@ -36,8 +36,8 @@ npm install gulp-imagemin --save-dev
 npm install beeps -g
 npm install beep
 npm install --save-dev gulp-livereload
-```
 
+```
 ## Compass
 Usamos pois gostamos bastante da diagramação mas
 ### Variáveis padrões do compass que usamos
